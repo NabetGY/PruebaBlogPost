@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.cwd": "${fileDirname}",
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.profiles.linux": {
+        "fish": {
+            "path": "/home/bob/.local/bin/host-spawn",
+            "args": ["fish"]
+        }
+    },
+    "dotnet.defaultSolution": "Prueba.sln",
+}
